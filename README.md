@@ -1,2 +1,3 @@
 # Flutter_UI_Pages
-![Screenshot](https://github.com/siwanijaiswal/Flutter_UI_Pages/assets/109847669/58fb6f37-4ebb-414e-bfc1-524779ef9a48)
+
+![Report_Bug and Faqs Screen](https://github.com/siwanijaiswal/Flutter_UI_Pages/assets/109847669/fd2b3b01-ad06-4ddd-a86c-4226d4661441)
